@@ -19,7 +19,9 @@ body{
 .main-menu {
 	margin: 0;
 	padding: 0;
+	padding-top: 50px;
 }
+
 .main-menu ul{
 	margin: 0;
 	padding: 0;
@@ -41,7 +43,7 @@ body{
 
 .main-menu a {
 	text-decoration: none;
-	color: black;
+	color: white;
 	display: block;
 	padding: 7px 50px;
 	font-size: 1.2em;
